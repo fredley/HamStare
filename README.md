@@ -1,5 +1,5 @@
-HamStar
-=======
+HamStare
+========
 
 Automate Stack Exchange Chat.
 
